@@ -44,7 +44,7 @@ export default function Footer() {
             viewport={{ once: true }}
             className="heading-section mb-4"
           >
-            Join the <span className="text-gradient">PRNTD</span> club
+            Join the <span className="text-gradient">MerQ</span> club
           </motion.h2>
           <p className="text-primary-foreground/70 mb-8">
             Get exclusive drops, early access, and 15% off your first order.
@@ -70,11 +70,11 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link to="/" className="inline-block mb-6">
               <span className="text-2xl font-bold tracking-tighter">
-                PRNTD<span className="text-accent">.</span>
+                MerQ<span className="text-accent">.</span>
               </span>
             </Link>
             <p className="text-primary-foreground/70 text-sm mb-6">
-              Premium custom merchandise for those who dare to express.
+              Premium custom merchandise for creators, startups, and teams.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social, i) => (
@@ -153,7 +153,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="container-wide py-6 border-t border-primary-foreground/10">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/50">
-          <p>&copy; {new Date().getFullYear()} PRNTD. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} MerQ. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="/privacy" className="hover:text-accent transition-colors">
               Privacy Policy
