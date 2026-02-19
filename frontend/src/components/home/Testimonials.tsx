@@ -5,7 +5,7 @@ const testimonials = [
   {
     name: "Alex Chen",
     role: "Designer",
-    content: "The print quality is insane! I've ordered from many print shops before, but PRNTD's attention to detail is unmatched. My designs look exactly as intended.",
+    content: "The print quality is insane! I've ordered from many print shops before, but MerQ's attention to detail is unmatched. My designs look exactly as intended.",
     rating: 5,
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
   },

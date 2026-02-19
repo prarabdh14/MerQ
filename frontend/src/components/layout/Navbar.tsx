@@ -64,7 +64,7 @@ export default function Navbar() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                PRNTD<span className="text-accent">.</span>
+                MerQ<span className="text-accent">.</span>
               </motion.span>
             </Link>
 

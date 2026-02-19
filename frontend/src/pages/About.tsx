@@ -47,7 +47,7 @@ export default function About() {
         <section className="relative h-[60vh] overflow-hidden">
           <img
             src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=1600"
-            alt="PRNTD Workshop"
+            alt="MerQ Workshop"
             className="absolute inset-0 w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent" />

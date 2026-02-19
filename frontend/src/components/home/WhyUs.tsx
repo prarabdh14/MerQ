@@ -34,7 +34,7 @@ export default function WhyUs() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <span className="text-caption text-accent mb-4 block">Why PRNTD</span>
+          <span className="text-caption text-accent mb-4 block">Why MerQ</span>
           <h2 className="heading-section max-w-2xl mx-auto">
             Crafted with care, worn with pride
           </h2>
